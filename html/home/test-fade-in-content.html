@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fade in Store</title>
+    <link rel="stylesheet" href="../../css/bootstrap.css">
+    <link rel="stylesheet" href="../../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../css/index-style.css">
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <script src="../../JS/jquery.js"></script>
+    <script src="../../JS/jquery-3.2.1.min.js"></script>
+    <script
+            src="http://code.jquery.com/jquery-1.10.2.js"
+            integrity="sha256-it5nQKHTz+34HijZJQkpNBIHsjpV8b6QzMJs9tmOBSo="
+            crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../../css/fade-in.css">
+    <script src="../../JS/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div style="background-color: #00abb3;height: 700px"></div>
+<div class="wrapper">
+
+    <div class="block animatable fadeIn">
+        <div style="width: 50%;float: left;margin: 0 0" class="block block3 animatable fadeInLeft">fadeInLeftIn</div>
+        <div class="block block2 animatable fadeInRight">fadeInUp</div>
+    </div>
+
+
+</div>
+<script>
+    jQuery(function($) {
+
+        var doAnimations = function() {
+
+            var offset = $(window).scrollTop() + $(window).height(),
+                $animatables = $('.animatable');
+
+            if ($animatables.size() == 0) {
+                $(window).off('scroll', doAnimations);
+            }
+
+            $animatables.each(function(i) {
+                var $animatable = $(this);
+                if (($animatable.offset().top + $animatable.height() - 20) < offset) {
+                    $animatable.removeClass('animatable').addClass('animated');
+                }
+            });
+
+        };
+
+        $(window).on('scroll', doAnimations);
+        $(window).trigger('scroll');
+
+    });
+</script>
+
+</body>
+</html>

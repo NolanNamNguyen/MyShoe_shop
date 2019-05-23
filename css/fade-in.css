@@ -1,0 +1,134 @@
+.delayanimate{
+    height: 40px;
+}
+
+.block-0{
+    width: 85%;
+    margin: 18px 100px;
+    height: 31%;
+    padding: 15px 15px;
+}
+
+.block-2{
+    background-color: rgba(12, 12, 12, 0.6);
+    display: block;
+    border: solid 1.5px rgba(255, 255, 255, 0.51);
+    width: 55%;
+    text-align: center;
+    padding: 8px 8px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 100;
+    color: white;
+    border-radius: 50px;
+}
+
+.block-2 h2{
+    color: #0da6e4;
+    font-style: italic;
+    clear: both;
+    font-weight: bold;
+    float: left;
+    width: 100%;
+    top: 16%;
+}
+.block-2 p{
+    text-align: left;
+    font-size: 18px;
+    position: absolute;
+    top: 36%;
+}
+.fadeInLeft{
+    float: left;
+    margin: 0 0;
+}
+
+
+.fadeInUp{
+    animation-delay: 0.1s;
+    /*opacity: 0;*/
+    transform: translateY(30%);
+    animation-fill-mode: forwards !important;
+    transition: all 0.1s ease-in-out;
+}
+
+.animatable {
+
+    /* initially hide animatable objects */
+    visibility: hidden;
+
+    /* initially pause animatable objects their animations */
+    animation-play-state: paused;
+}
+
+/* show objects being animated */
+.animated {
+    opacity: 1 !important;
+    visibility: visible;
+    animation-fill-mode: forwards;
+    animation-duration: 3s;
+    animation-play-state: running;
+}
+
+/* CSS Animations (extracted from http://glifo.uiparade.com/) */
+
+@keyframes fadeInUp {
+    0%{
+        opacity: 0;
+        transform: translateY(30%);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInLeft {
+    0% {
+        opacity: 0;
+        transform: translateX(-150px);
+    }
+    50% {
+        opacity: 0;
+        transform: translateX(-150px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes fadeInRight {
+    0% {
+        opacity: 0;
+        transform: translateX(150px);
+    }
+    50% {
+        opacity: 0;
+        transform: translateX(150px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.animated.animationDelay{
+    animation-delay:.1s;
+}
+.animated.animationDelayMed{
+    animation-delay:0.2s;
+}
+.animated.animationDelayLong{
+    animation-delay:0.3s;
+}
+
+.animated.fadeInUp {
+    animation-name: fadeInUp;
+}
+.animated.fadeInLeft {
+    animation-name: fadeInLeft;
+}
+.animated.fadeInRight {
+    animation-name: fadeInRight;
+}

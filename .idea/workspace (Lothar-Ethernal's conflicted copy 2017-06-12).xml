@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf0b50d7-8a01-4ec1-9b63-aa2c53bd4baf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/home/temp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/in-style(temp).css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/home/Index.html.txt" afterPath="" />
+    </list>
+    <ignored path="Team2-project.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Team2-project" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Contact-Us.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/Contact Us-demo/Contact-Us.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>text</find>
+      <find>margin</find>
+      <find>blog</find>
+      <find>.nav</find>
+      <find>tes</find>
+      <find>center</find>
+      <find>position</find>
+      <find>s-righ</find>
+      <find>curr</find>
+      <find>height: 34</find>
+      <find>44</find>
+      <find>input-group-</find>
+      <find>nav</find>
+      <find>34</find>
+      <find>s-box</find>
+      <find>ss</find>
+      <find>navlo</find>
+      <find>header</find>
+      <find>header2</find>
+      <find>input</find>
+      <find>img</find>
+      <find>s-btn</find>
+      <find>s-input</find>
+      <find>s-inp</find>
+      <find>form</find>
+      <find>art</find>
+      <find>h2</find>
+      <find>top</find>
+      <find>footer</find>
+      <find>btn</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>cc</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/html/home/1.html" />
+        <option value="$USER_HOME$/Documents/GitHub/TEST2/html/home/Index.html" />
+        <option value="$PROJECT_DIR$/html/Blog/Blog-demo/Blog2.css" />
+        <option value="$PROJECT_DIR$/html/Blog/Contact Us-demo/Contact-Us.css" />
+        <option value="$PROJECT_DIR$/html/product/html/footer/Footer.html" />
+        <option value="$PROJECT_DIR$/html/product/html/footer/Footer-style.css" />
+        <option value="$PROJECT_DIR$/html/product/html/product.html" />
+        <option value="D:/IT Project/1st Project Softech/1st Project/Blog-demo/Blog2.html" />
+        <option value="D:/IT Project/1st Project Softech/1st Project/Blog-demo/Blog2.css" />
+        <option value="D:/IT Project/1st Project Softech/1st Project/Blog-demo/test.html" />
+        <option value="$PROJECT_DIR$/html/Blog/Test/Blog-hover.css" />
+        <option value="$PROJECT_DIR$/css/Index.scss" />
+        <option value="$PROJECT_DIR$/css/test.css" />
+        <option value="$PROJECT_DIR$/JS/test.js" />
+        <option value="$PROJECT_DIR$/html/home/test.html" />
+        <option value="$PROJECT_DIR$/html/Header/Header.html" />
+        <option value="$PROJECT_DIR$/html/Blog/Contact Us-demo/Contact-Us.html" />
+        <option value="$PROJECT_DIR$/html/Blog/Blog-demo/Blog2.html" />
+        <option value="$PROJECT_DIR$/html/product/html/index-product.html" />
+        <option value="$PROJECT_DIR$/html/home/temp.html" />
+        <option value="$PROJECT_DIR$/css/Blog2.css" />
+        <option value="D:/IT Project/1st Project Softech/1st Project/Blog-demo/Blog-hover.html" />
+        <option value="D:/IT Project/1st Project Softech/1st Project/Blog-demo/Blog-hover.css" />
+        <option value="$PROJECT_DIR$/css/Blog-hover.css" />
+        <option value="D:/IT Project/1st Project Softech/Team2-project/html/test-hover.css" />
+        <option value="D:/IT Project/1st Project Softech/Team2-project/html/test-hover-nav.css" />
+        <option value="D:/IT Project/1st Project Softech/Team2-project/html/fix-menu.html" />
+        <option value="$PROJECT_DIR$/html/test-hover-nav.css" />
+        <option value="$PROJECT_DIR$/html/common/footer.html" />
+        <option value="D:/IT Project/1st Project Softech/Team2-project-test/css/Blog-hover.css" />
+        <option value="$PROJECT_DIR$/html/fix-menu.html" />
+        <option value="$PROJECT_DIR$/html/common/header.html" />
+        <option value="D:/IT Project/1st Project Softech/Team2-project-test/html/test-hover-nav.css" />
+        <option value="D:/IT Project/1st Project Softech/Team2-project-test/css/index-style.css" />
+        <option value="D:/IT Project/1st Project Softech/Team2-project-test/html/fix-menu.html" />
+        <option value="D:/IT Project/1st Project Softech/Team2-project-test/html/home/Index.html" />
+        <option value="$PROJECT_DIR$/css/index-style.css" />
+        <option value="D:/IT Project/1st Project Softech/Team2-project-test/html/common/header.html" />
+        <option value="D:/IT Project/1st Project Softech/Team2-project/html/home/Index.html" />
+        <option value="D:/IT Project/1st Project Softech/Team2-project/css/Blog2.css" />
+        <option value="D:/IT Project/1st Project Softech/Team2-project/html/Blog/Blog2.html" />
+        <option value="$PROJECT_DIR$/html/Blog/Blog2.html" />
+        <option value="$PROJECT_DIR$/html/home/Index.html" />
+        <option value="D:/IT Project/1st Project Softech/Team2-project-rework/css/index-style.css" />
+        <option value="D:/IT Project/1st Project Softech/Team2-project-rework/css/Contact-Us.css" />
+        <option value="D:/IT Project/1st Project Softech/Team2-project-rework/html/Contact Us-demo/Contact-Us.html" />
+        <option value="$PROJECT_DIR$/css/Contact-Us.css" />
+        <option value="$PROJECT_DIR$/html/Contact Us-demo/Contact-Us.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Team2-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Team2-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Team2-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Team2-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Team2-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Team2-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Team2-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Team2-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Team2-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Contact Us-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Team2-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Team2-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Team2-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Team2-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Team2-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1st Project Softech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\Dropbox\Batch 135\Files\Team2-project\html\common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.product.html">
+    <configuration default="false" name="Index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Team2-project/html/home/Index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="header.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Team2-project/html/common/header.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="Blog-hover.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Team2-project/1st Project/Blog-demo/Blog-hover.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="product.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Team2-project/html/product/product.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.header.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Blog-hover.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.product.html" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.product.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Index.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Blog-hover.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.header.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf0b50d7-8a01-4ec1-9b63-aa2c53bd4baf" name="Default" comment="" />
+      <created>1495711036638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1495711036638</updated>
+      <workItem from="1495711038159" duration="5413000" />
+      <workItem from="1495725473367" duration="17346000" />
+      <workItem from="1495786295844" duration="6003000" />
+      <workItem from="1495816604913" duration="495000" />
+      <workItem from="1495817640219" duration="7000" />
+      <workItem from="1495817680731" duration="3845000" />
+      <workItem from="1495852837715" duration="4899000" />
+      <workItem from="1495897716705" duration="2061000" />
+      <workItem from="1495906057207" duration="4416000" />
+      <workItem from="1495951829258" duration="2627000" />
+      <workItem from="1495983072113" duration="4611000" />
+      <workItem from="1496029402006" duration="1570000" />
+      <workItem from="1496043507852" duration="1029000" />
+      <workItem from="1496055100324" duration="1193000" />
+      <workItem from="1496057241405" duration="742000" />
+      <workItem from="1496058082086" duration="1273000" />
+      <workItem from="1496063376964" duration="2000" />
+      <workItem from="1496096115380" duration="2759000" />
+      <workItem from="1496138580216" duration="4873000" />
+      <workItem from="1496151683929" duration="726000" />
+      <workItem from="1496152469900" duration="56000" />
+      <workItem from="1496152729117" duration="140000" />
+      <workItem from="1496203131920" duration="16000" />
+      <workItem from="1496216748542" duration="16000" />
+      <workItem from="1496218961650" duration="4769000" />
+      <workItem from="1496225778480" duration="1835000" />
+      <workItem from="1496227655523" duration="2992000" />
+      <workItem from="1496246139370" duration="42000" />
+      <workItem from="1496322974592" duration="3541000" />
+      <workItem from="1496374898285" duration="3152000" />
+      <workItem from="1496397094945" duration="1483000" />
+      <workItem from="1496469201842" duration="2811000" />
+      <workItem from="1496487016756" duration="3407000" />
+      <workItem from="1496497778615" duration="15000" />
+      <workItem from="1496545154921" duration="92000" />
+      <workItem from="1496545256345" duration="704000" />
+      <workItem from="1496545994714" duration="599000" />
+      <workItem from="1496551893150" duration="602000" />
+      <workItem from="1496569285860" duration="5632000" />
+      <workItem from="1496575038059" duration="24000" />
+      <workItem from="1496575105514" duration="1000" />
+      <workItem from="1496575631304" duration="5000" />
+      <workItem from="1496575693498" duration="162000" />
+      <workItem from="1496576028542" duration="313000" />
+      <workItem from="1496622425227" duration="601000" />
+      <workItem from="1496627628654" duration="7132000" />
+      <workItem from="1496635129171" duration="53000" />
+      <workItem from="1496635189815" duration="42000" />
+      <workItem from="1496637206544" duration="49000" />
+      <workItem from="1496637404316" duration="111000" />
+      <workItem from="1496637963691" duration="3000" />
+      <workItem from="1496652759975" duration="319000" />
+      <workItem from="1496653264473" duration="21000" />
+      <workItem from="1496655896381" duration="1030000" />
+      <workItem from="1496657108468" duration="2000" />
+      <workItem from="1496657550761" duration="449000" />
+      <workItem from="1496661230283" duration="3221000" />
+      <workItem from="1496738127109" duration="1771000" />
+      <workItem from="1496757141587" duration="7000" />
+      <workItem from="1496760938536" duration="2380000" />
+      <workItem from="1496835547618" duration="2008000" />
+      <workItem from="1496894316568" duration="1804000" />
+      <workItem from="1497016567102" duration="1865000" />
+      <workItem from="1497071931360" duration="2300000" />
+      <workItem from="1497097247120" duration="111000" />
+      <workItem from="1497123724642" duration="1687000" />
+      <workItem from="1497125422140" duration="860000" />
+      <workItem from="1497145321989" duration="887000" />
+      <workItem from="1497165806890" duration="611000" />
+      <workItem from="1497180235978" duration="1493000" />
+      <workItem from="1497181757987" duration="145000" />
+      <workItem from="1497182483123" duration="8000" />
+      <workItem from="1497182830513" duration="7000" />
+      <workItem from="1497182905478" duration="1000" />
+      <workItem from="1497183570336" duration="2000" />
+      <workItem from="1497183707195" duration="929000" />
+      <workItem from="1497185657459" duration="115000" />
+      <workItem from="1497185783048" duration="2000" />
+      <workItem from="1497186097556" duration="6000" />
+      <workItem from="1497186133530" duration="36000" />
+      <workItem from="1497186203292" duration="36000" />
+      <workItem from="1497186361168" duration="11000" />
+      <workItem from="1497186528928" duration="13000" />
+      <workItem from="1497186788149" duration="32000" />
+      <workItem from="1497238788945" duration="1219000" />
+      <workItem from="1497278908922" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="191859000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13855103" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14270833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JS/test.js" />
+    <entry file="file://$PROJECT_DIR$/css/test.css" />
+    <entry file="file://$PROJECT_DIR$/html/home/test.html" />
+    <entry file="file://$PROJECT_DIR$/html/Header/Header.html" />
+    <entry file="file://$PROJECT_DIR$/html/Blog/Blog-demo/Blog2.html" />
+    <entry file="file://$PROJECT_DIR$/html/Blog/Contact Us-demo/Contact-Us.html" />
+    <entry file="file://$PROJECT_DIR$/html/product/html/index-product.html" />
+    <entry file="file://$PROJECT_DIR$/html/product/html/product.html" />
+    <entry file="file://$PROJECT_DIR$/html/article/html/article.html" />
+    <entry file="file://$PROJECT_DIR$/html/Blog/Blog-demo/Blog-hover.html" />
+    <entry file="file://$PROJECT_DIR$/html/home/Index (PC's conflicted copy 2017-05-31).html" />
+    <entry file="file://$PROJECT_DIR$/html/home/temp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/in-style(temp).css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="30" column="27" lean-forward="false" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/IT Project/1st Project Softech/1st Project/Blog-demo/Blog2.css" />
+    <entry file="file://D:/IT Project/1st Project Softech/1st Project/Blog-demo/Blog2.html" />
+    <entry file="file://$PROJECT_DIR$/html/product/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/IT Project/1st Project Softech/1st Project/Blog-demo/Blog-hover.html" />
+    <entry file="file://D:/IT Project/1st Project Softech/1st Project/Blog-demo/Blog-hover.css" />
+    <entry file="file://D:/IT Project/1st Project Softech/Team2-project/html/common/header.html" />
+    <entry file="file://D:/IT Project/1st Project Softech/Team2-project/html/fix-menu.html" />
+    <entry file="file://D:/IT Project/1st Project Softech/Team2-project/html/test-hover-nav.css" />
+    <entry file="file://$PROJECT_DIR$/css/article.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/Blog-hover.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="37" column="5" lean-forward="false" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/Blog2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/test-hover-nav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/article/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="74" lean-forward="false" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/common/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="39" lean-forward="false" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/IT Project/1st Project Softech/Team2-project-test/css/Blog-hover.css" />
+    <entry file="file://$PROJECT_DIR$/html/fix-menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="75" lean-forward="false" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/common/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="73" lean-forward="false" selection-start-line="1" selection-start-column="73" selection-end-line="1" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/IT Project/1st Project Softech/Team2-project-test/html/test-hover-nav.css" />
+    <entry file="file://D:/IT Project/1st Project Softech/Team2-project-test/css/index-style.css" />
+    <entry file="file://D:/IT Project/1st Project Softech/Team2-project-test/html/fix-menu.html" />
+    <entry file="file://$PROJECT_DIR$/css/index-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="337" column="12" lean-forward="false" selection-start-line="337" selection-start-column="12" selection-end-line="337" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/IT Project/1st Project Softech/Team2-project-test/html/common/header.html" />
+    <entry file="file://D:/IT Project/1st Project Softech/Team2-project-test/html/home/Index.html" />
+    <entry file="file://D:/IT Project/1st Project Softech/Team2-project/html/Blog/Blog-hover.html" />
+    <entry file="file://D:/IT Project/1st Project Softech/Team2-project/css/index-style.css" />
+    <entry file="file://D:/IT Project/1st Project Softech/Team2-project/css/Blog2.css" />
+    <entry file="file://D:/IT Project/1st Project Softech/Team2-project/html/Blog/Blog2.html" />
+    <entry file="file://D:/IT Project/1st Project Softech/Team2-project/html/home/Index.html" />
+    <entry file="file://$PROJECT_DIR$/html/Blog/Blog-hover.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="95" lean-forward="false" selection-start-line="8" selection-start-column="95" selection-end-line="8" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/Blog/Blog2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/home/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/IT Project/1st Project Softech/Team2-project-rework/html/Blog/Blog2.html" />
+    <entry file="file://D:/IT Project/1st Project Softech/Team2-project-rework/html/Contact Us-demo/Contact-Us.html" />
+    <entry file="file://D:/IT Project/1st Project Softech/Team2-project-rework/css/Contact-Us.css" />
+    <entry file="file://D:/IT Project/1st Project Softech/Team2-project-rework/html/home/Index.html" />
+    <entry file="file://D:/IT Project/1st Project Softech/Team2-project-rework/css/index-style.css" />
+    <entry file="file://$PROJECT_DIR$/css/Contact-Us.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="116" column="17" lean-forward="false" selection-start-line="116" selection-start-column="17" selection-end-line="116" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/Contact Us-demo/Contact-Us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

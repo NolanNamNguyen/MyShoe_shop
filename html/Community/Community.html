@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AthletesWorld</title>
+    <link rel="stylesheet" href="../../css/bootstrap.css">
+    <link rel="stylesheet" href="../../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../css/index-style.css">
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <script src="../../JS/jquery.js"></script>
+    <script src="../../JS/jquery-3.2.1.min.js"></script>
+    <script src="../../JS/hambergerss.js"></script>
+    <script
+            src="http://code.jquery.com/jquery-1.10.2.js"
+            integrity="sha256-it5nQKHTz+34HijZJQkpNBIHsjpV8b6QzMJs9tmOBSo="
+            crossorigin="anonymous"></script>
+    <script src="../../JS/angular.js"></script>
+    <script src="../../JS/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="../../css/product-carousel.css">
+    <link rel="stylesheet" href="../../css/Blog2.css">
+    <link rel="stylesheet" href="../../css/Blogexpand.css">
+    <link rel="stylesheet" href="../../css/Nav-hover.css">
+    <link rel="stylesheet" href="../../css/fade-in.css">
+    <link rel="stylesheet" href="../../css/excarousel.css">
+    <link rel="stylesheet" href="../../css/Responsive-ultimage.css">
+    <link rel="stylesheet" href="../../css/Community.css">
+</head>
+<body ng-app="">
+<div class="overlay"></div>
+<a href="javascript:" id="return-to-top"><i class="icon-chevron-up"></i></a>
+
+<div class="container-fluid page-wrap">
+    <div class="head-community">
+        <div ng-include="'../common/header.html'"></div>
+        <div class="welcome-img"><img src="../../image/background/parallax/uefa_champions_league-wallpaper-3840x2160.jpg"></div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div ng-include="'../common/footer.html'"></div>
+<!--SCROLL TOP BUTTON-->
+
+<script>
+    // ===== Scroll to Top ====
+    $(window).scroll(function() {
+        if ($(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
+            $('#return-to-top').fadeIn(200);    // Fade in the arrow
+        } else {
+            $('#return-to-top').fadeOut(200);   // Else fade out the arrow
+        }
+    });
+    $('#return-to-top').click(function() {      // When arrow is clicked
+        $('body,html').animate({
+            scrollTop : 0                       // Scroll to top of body
+        }, 1200);
+    });
+</script>
+
+<!--SCROLL TOP BUTTON-->
+<script>
+    // Y axis scroll speed
+    var velocity = 0.3;
+
+    function update(){
+        var pos = $(window).scrollTop();
+        $('.contain-move').each(function() {
+            var $element = $(this);
+            // subtract some from the height b/c of the padding
+            var height = $element.height()-18;
+            $(this).css('backgroundPosition', '50% ' + Math.round((height - pos) * velocity) + 'px');
+        });
+    };
+
+    $(window).bind('scroll', update);
+</script>
+
+<!--FIXED NAV-->
+
+<script>
+    $(document).ready(function(){
+        var scrollTop = 0;
+        $(window).scroll(function(){
+            scrollTop = $(window).scrollTop();
+            $('.counter').html(scrollTop);
+
+            if (scrollTop >= 100) {
+                $('#global-nav').addClass('scrolled-nav');
+            } else if (scrollTop < 100) {
+                $('#global-nav').removeClass('scrolled-nav');
+            }
+
+        });
+
+    });
+</script>
+
+<!--FIXED NAV-->
+
+</body>
+</html>

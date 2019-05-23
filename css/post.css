@@ -1,0 +1,18 @@
+.post{
+    height:185px;
+    width:360px;
+}
+.post-title{
+    text-align: center;
+}
+.post-title1{
+    font-size: 30px;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+.post-title2{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-decoration: underline;
+}

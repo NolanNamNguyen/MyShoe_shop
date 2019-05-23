@@ -1,0 +1,62 @@
+.ribbon{
+    background-color: rgb(11, 9, 31);
+    width: 35px;
+    height: 52px;
+    position: relative;
+    margin: 0 0 0 23px;
+    font-family: 'Kite One', sans-serif;
+}
+.ribbon i{
+    width: 90%;
+    height: 120%;
+    display: block;
+    margin: -4px 1px;
+    z-index: 100;
+    position: relative;
+    overflow: hidden;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+i span{
+    color: #FFF;
+    display: block;
+    text-align: center;
+    top: 50%;
+    margin-top: -7px;
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    position: relative;
+    text-shadow: 0.0625em 0.0625em 0.0625em #333;
+    font-style: normal;
+    font-weight: bold;
+}
+.ribbon:before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -2.4em;
+    width: 0;
+    height: 0;
+    border-top: 2.5em solid rgb(11, 9, 31);
+    border-right: 2.5em solid transparent;
+}
+.ribbon:after{
+    content: "";
+    position: absolute;
+    bottom: -2.4em;
+    right: 0;
+    width: 0;
+    height: 0;
+    border-top: 2.5em solid rgb(11, 9, 31);
+    border-left: 2.5em solid transparent;
+}
+.rib-2{
+    position: relative;
+    margin: -53px 0 0 71px;
+    background-color: rgba(133, 133, 133, 0.96);
+}
+.rib-2:before{
+    border-top: 2.5em solid rgba(133, 133, 133, 0.96);
+}
+.rib-2:after{
+    border-top: 2.5em solid rgba(133, 133, 133, 0.96);
+}

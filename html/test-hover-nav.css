@@ -1,0 +1,73 @@
+#top-menu .current_page_item a:before {
+    content: "";
+    position: absolute;
+    z-index: 2;
+    left: 0;
+    right: 0;
+}
+#top-menu li a:before {
+    content: ""; /*** This is how we can display the line under content in <li>***/
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    right: 100%;
+    bottom: 0%;
+    background: rgba(50,184,235,0.68); /*** COLOR OF THE LINE ***/
+    height: 3px; /*** THICKNESS OF THE LINE ***/
+    transition-property: right;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out;
+}
+#top-menu li a:hover {
+    opacity: 1 !important;
+    color: #0da6e4;
+}
+#top-menu li a:hover:before {
+    right: 0;   /*** content move from 100% to 0 ***/
+}
+#top-menu li a{
+    margin-left: 12px;
+    text-transform: uppercase;
+}
+.current_page_item{
+    margin-left: 50px;
+}
+.s-box{
+    padding: 21px 12px !important;
+    width: 250px !important;
+    margin: 0 0 10px 0 !important;
+    border-right: none;
+    position: relative;
+    background: white;
+}
+.s-btn{
+    background: white;
+    border-left: none;
+    margin: 0 0 10px 0;
+    position: absolute;
+}
+.s-btn:hover{
+    background: white;
+}
+.s-btn i {
+    font-size: 19px !important;
+    margin-top: 6px !important;
+    background: white;
+}
+.s-btn i:hover{
+    color: cornflowerblue !important;
+    transition: all 0.6s !important;
+}
+.s-right {
+    margin-left: 40px;
+    margin-right: -113px !important;
+}
+.nav-new{
+    margin-top: 2px;
+    height: 80px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+}
+.centerlinks{
+    margin-right: -20px !important;
+}

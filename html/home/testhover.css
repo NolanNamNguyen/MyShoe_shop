@@ -1,0 +1,58 @@
+body {
+    padding-top: 150px;
+}
+
+#global-nav {
+    position: fixed;
+    top: 0;
+    z-index: 9999;
+    height: 150px;
+    width: 100%;
+    background: none;
+    color: #000000;
+    line-height: 150px;
+    -webkit-transition: height .5s, line-height .5s; /* Safari */
+    transition: all 0.4s ease-in-out;
+}
+
+
+
+
+
+.scrolled-nav {
+    height: 60px !important;
+    line-height: 60px !important;
+    background: #324c5f !important;
+
+}
+
+
+
+footer {
+    height: 200px;
+    background: #333;
+    color: #fff;
+    padding-top: 40px;
+}
+
+                        /*SCROLL*/
+
+.container-fluid{
+    padding:200px 20px 200px 20px;
+    text-align:center;
+    color:#FFF;
+    font-weight:bold;
+}
+.section-1{
+    background-image:url(http://static4.wikia.nocookie.net/__cb20130612023354/harrypotter/images/d/d1/Gradient-blue-background.jpg);
+    background-position:center;
+}
+.section-2{
+    background-image:url(http://th00.deviantart.net/fs49/PRE/f/2009/207/e/d/Orange_Desktop_Background_by_The_Dogfather.png);
+    background-position:center;
+}
+.section-3{
+    background-image:url(http://oaklandbaptist.org/media/Green-Background.jpg);
+    background-position:center;
+}
+                        /*SCROLL*/

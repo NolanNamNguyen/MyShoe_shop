@@ -1,0 +1,615 @@
+*{
+    font-family: Lato, sans-serif;
+}
+
+/*HEADER*/
+
+.page-wrap{
+    margin: 0 0;
+    padding: 0 0;
+    width: 100%;
+}
+.head-about{
+    width: 100%;
+    height: 787px;
+    position: relative;
+}
+.head-about h1{
+    color: white;
+    width: 40%;
+    text-align: left;
+    position: absolute;
+    top: 20%;
+    left: 16.7%;
+    font-size: 52px;
+}
+.overlay-para{
+    top: 0;
+}
+.welcome-img{
+    width: 100%;
+    height: 100%;
+}
+.welcome-img img{
+    width: 100%;
+    height: 100%;
+}
+.ready {
+
+    /* initially hide animatable objects */
+
+    /* initially pause animatable objects their animations */
+    visibility: hidden;
+    animation-play-state: paused;
+
+}
+
+.action {
+    opacity: 0;
+    visibility: visible;
+    animation-duration: 3s;
+    animation-fill-mode: both;
+    animation-play-state: running;
+}
+.fly-1{
+    animation: fly-1 1s 1 0s linear;
+    animation-fill-mode: forwards;
+    display: inline-block;
+}
+.fly-2{
+    animation: fly-2 1s 1 0.1s linear;
+    animation-fill-mode: forwards;
+    display: inline-block;
+}
+.fly-3{
+    animation: fly-3 1s 1 0.2s linear;
+    animation-fill-mode: forwards;
+    display: inline-block;
+}
+.fly-4{
+    animation: fly-4 1s 1 0.3s linear;
+    animation-fill-mode: forwards;
+    display: inline-block;
+}
+.fly-5{
+    animation: fly-5 1s 1 0.4s linear;
+    animation-fill-mode: forwards;
+    display: inline-block;
+}
+.fly-6{
+    animation: fly-6 1s 1 0.5s linear;
+    animation-fill-mode: forwards;
+    display: inline-block;
+}
+.fly-7{
+    animation: fly-7 1s 1 0.6s linear;
+    animation-fill-mode: forwards;
+    display: inline-block;
+}
+.fly-8{
+    animation: fly-8 1s 1 0.7s linear;
+    animation-fill-mode: forwards;
+    display: inline-block;
+}
+.fly-9{
+    animation: fly-9 1s 1 0.8s linear;
+    animation-fill-mode: forwards;
+    display: inline-block;
+}
+.fly-10{
+    animation: fly-10 1s 1 0.9s linear;
+    animation-fill-mode: forwards;
+    display: inline-block;
+}
+
+.fly-11{
+    animation: fly-11 1s 1 1s linear;
+    animation-fill-mode: forwards;
+    display: inline-block;
+}
+
+.fly-12{
+    animation: fly-12 1s 1 1.1s linear;
+    animation-fill-mode: forwards;
+    display: inline-block;
+}
+
+.fly-13{
+    animation: fly-13 1s 1 1.2s linear;
+    animation-fill-mode: forwards;
+    display: inline-block;
+}
+
+
+
+@keyframes fly-1 {
+    0%{
+        opacity: 0;
+        color: white;
+        transform: translate(-120%,50%) rotateX(-48deg) rotateY(150deg) rotateZ(70deg);
+        left: -50%;
+    }
+    100%{
+        opacity: 1;
+        color: #0da6e4;
+        transform: translate(0,0); rotate(0,0,0);
+    }
+}
+@keyframes fly-2 {
+    0%{
+        opacity: 0;
+        color: white;
+        transform: translate(90%,-70%) rotateX(-210deg) rotateY(50deg) rotateZ(70deg);
+        left: -50%;
+    }
+    100%{
+        opacity: 1;
+        color: #0da6e4;
+        transform: translate(0,0); rotate(0,0,0);
+    }
+}
+@keyframes fly-3 {
+     0%{
+         opacity: 0;
+         color: white;
+         transform: translate(-130%,50%) rotateX(210deg) rotateY(250deg) rotateZ(70deg);
+         left: -50%;
+     }
+     100%{
+         opacity: 1;
+         color: #0da6e4;
+         transform: translate(0,0); rotate(0,0,0);
+     }
+}
+@keyframes fly-4 {
+      0%{
+          opacity: 0;
+          color: white;
+          transform: translate(0,-80%) rotateX(-48deg) rotateY(250deg) rotateZ(70deg);
+          left: -50%;
+      }
+      100%{
+          opacity: 1;
+          color: #0da6e4;
+          transform: translate(0,0); rotate(0,0,0);
+      }
+}
+@keyframes fly-5 {
+       0%{
+           opacity: 0;
+           color: white;
+           transform: translate(60%,-110%) rotateX(-10deg) rotateY(190deg) rotateZ(81deg);
+           left: -50%;
+       }
+       100%{
+           opacity: 1;
+           color: #0da6e4;
+           transform: translate(0,0); rotate(0,0,0);
+       }
+}
+@keyframes fly-6 {
+        0%{
+            opacity: 0;
+            color: white;
+            transform: translate(20%,70%) rotateX(-48deg) rotateY(-234deg) rotateZ(-212deg);
+            left: -50%;
+        }
+        100%{
+            opacity: 1;
+            color: #0da6e4;
+            transform: translate(0,0); rotate(0,0,0);
+        }
+}
+@keyframes fly-7 {
+         0%{
+             opacity: 0;
+             color: white;
+             transform: translate(120%,50%) rotateX(-42deg) rotateY(125deg) rotateZ(123deg);
+             left: -50%;
+         }
+         100%{
+             opacity: 1;
+             color: #0da6e4;
+             transform: translate(0,0); rotate(0,0,0);
+         }
+}
+@keyframes fly-8 {
+    0%{
+        opacity: 0;
+        color: white;
+        transform: translate(0,-50%) rotateX(-220deg) rotateY(40deg) rotateZ(230deg);
+        left: -50%;
+    }
+    100%{
+        opacity: 1;
+        color: #0da6e4;
+        transform: translate(0,0); rotate(0,0,0);
+    }
+}
+@keyframes fly-9 {
+    0%{
+        opacity: 0;
+        color: white;
+        transform: translate(60%,-110%) rotateX(-10deg) rotateY(190deg) rotateZ(81deg);
+        left: -50%;
+    }
+    100%{
+        opacity: 1;
+        color: #0da6e4;
+        transform: translate(0,0); rotate(0,0,0);
+    }
+}
+@keyframes fly-10 {
+    0%{
+        opacity: 0;
+        color: white;
+        transform: translate(-130%,50%) rotateX(210deg) rotateY(250deg) rotateZ(70deg);
+        left: -50%;
+    }
+    100%{
+        opacity: 1;
+        color: #0da6e4;
+        transform: translate(0,0); rotate(0,0,0);
+    }
+}
+@keyframes fly-11 {
+    0%{
+        opacity: 0;
+        color: white;
+        transform: translate(120%,50%) rotateX(-42deg) rotateY(125deg) rotateZ(123deg);
+        left: -50%;
+    }
+    100%{
+        opacity: 1;
+        color: #0da6e4;
+        transform: translate(0,0); rotate(0,0,0);
+    }
+}
+@keyframes fly-12 {
+    0%{
+        opacity: 0;
+        color: white;
+        transform: translate(60%,-110%) rotateX(-10deg) rotateY(190deg) rotateZ(81deg);
+        left: -50%;
+    }
+    100%{
+        opacity: 1;
+        color: #0da6e4;
+        transform: translate(0,0); rotate(0,0,0);
+    }
+}
+@keyframes fly-13 {
+    0%{
+        opacity: 0;
+        color: white;
+        transform: translate(20%,70%) rotateX(-48deg) rotateY(-234deg) rotateZ(-212deg);
+        left: -50%;
+    }
+    100%{
+        opacity: 1;
+        color: #0da6e4;
+        transform: translate(0,0); rotate(0,0,0);
+    }
+}
+
+
+.text-animate-2{
+    top: 27% !important;
+}
+
+.banner-text{
+    font-family: Lato, sans-serif;
+    font-weight: 600;
+    text-align: left;
+    width: 35%;
+    top: 46%;
+    position: absolute;
+    left: 17%;
+    color: white;
+    font-size: 18px;
+    animation: fade-up 0.6s 1 1.8s linear;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fade-up {
+    0%{
+        opacity: 0;
+        transform: translateY(30%);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/*HEADER*/
+
+.introduction{
+    position: relative;
+    margin: 0 0;
+    padding: 0 0;
+}
+.img-introduce img{
+    width: 100%;
+    height: 100%;
+}
+.img-introduce{
+    padding: 0 0;
+}
+.introduce-text{
+    margin: auto;
+    padding: 20px 60px;
+    text-align: left;
+}
+.introduce-text h1{
+    color: #232224;
+    font-size: 40px;
+    width: 100%;
+    font-weight: bold;
+    font-family: "Fira Code",sans-serif !important;
+    text-transform: none;
+    font-style: normal;
+}
+.intro-text-1{
+    color: #232224;
+    width: 80%;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.intro-text-2{
+    color: grey;
+    font-weight: 600;
+    width: 80%;
+    font-size: 20px;
+}
+
+/*MISSION*/
+
+
+.mission{
+    width: 100%;
+    margin: 0 0;
+    padding: 20px 20px;
+    background-color: rgba(237, 237, 237, 0.29);
+    height: 857px;
+}
+.mission-title p{
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    font-size: 19px;
+    padding-bottom: 30px;
+
+}
+
+.object-img{
+    width: 100%;
+    height: 350px;
+}
+.object-img img{
+    width: 100%;
+    height: 100%;
+}
+.mission-title h1{
+    color: #232224;
+    font-size: 40px;
+    width: 100%;
+    font-weight: bold;
+    font-family: "Fira Code",sans-serif !important;
+    text-align: center;
+    font-style: normal;
+    margin-bottom: 10px;
+}
+.mission-title{
+    font-size: 17px;
+    text-align: left;
+    width: 100%;
+    margin: 0 0;
+    padding: 10px 10px;
+}
+.object-contain h2{
+    text-transform: none;
+    color: rgba(14, 14, 14, 0.85);
+    width: 100%;
+    padding: 15px 15px;
+    text-align: left;
+    font-family: Lato, sans-serif !important;
+}
+.btn-object{
+    width: 100%;
+    text-align: center;
+    padding: 0 0;
+}
+.object{
+    padding: 0 20px;
+}
+.mission-text{
+    color: rgba(125, 125, 129, 0.87);
+    font-size: 18px;
+    box-sizing: border-box;
+    padding: 10px 15px;
+}
+.btn-object-a{
+    color: #00caff;
+}
+.btn-object-a rect{
+    stroke-width: 6px;
+}
+
+.object-img{
+    box-shadow: 0 0 15px 1px rgba(21,21,22,0.87)!important;
+}
+.object-1{
+    animation: fade-up-mission 0.8s 1 0s linear;
+    animation-fill-mode: forwards;
+}
+.object-2{
+    animation: fade-up-mission 0.8s 1 0.5s linear;
+    animation-fill-mode: forwards;
+}
+.object-3{
+    animation: fade-up-mission 0.8s 1 1s linear;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fade-up-mission {
+    0%{
+        opacity: 0;
+        transform: translateY( 30%);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.ready-1 {
+
+    /* initially hide animatable objects */
+    visibility: hidden;
+
+    /* initially pause animatable objects their animations */
+    animation-play-state: paused;
+}
+
+/* show objects being animated */
+.action-1 {
+    visibility: visible;
+    animation-fill-mode: both;
+    animation-play-state: running;
+}
+
+/*MISSION*/
+
+                                                /*TEAMM */
+
+.team{
+    padding: 15px 15px;
+}
+.team h1{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    margin-top: 36px;
+}
+.team p{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    font-family: "Open Sans",sans-serif;
+    color: rgba(53,53,56,0.87);
+    font-size: 15px;
+}
+.mission-title{
+    margin-bottom: 20px !important;
+}
+.indicators-control{
+    display: none;
+}
+.banner{
+    width: 80%;
+    margin: auto;
+    height: 500px;
+}
+.member-contain{
+    width: 88%;
+    height: 346px;
+    position: absolute;
+    top: 15%;
+    left: 8%;
+    box-shadow: 0 0 15px 0 rgba(31,31,33,0.87);
+}
+.member{
+    height: 500px;
+    background: none !important;
+}
+.carousel-banner{
+    background: none;
+}
+.member-content{
+    margin-bottom: 35px !important;
+}
+.team-control-i {
+    color: #00caff !important;
+    font-size: 50px;
+}
+.avatar-member img{
+    width: 100%;
+    height: 100%;
+    transition: all 0.3s ease-in-out;
+}
+.member-info{
+    padding: 40px 12px;
+    width: 60%;
+    float: right;
+    height: 100%;
+    text-align: center;
+}
+.member-info h2{
+    color: black;
+    /*font-family: Lato, sans-serif;*/
+    font-size: 28px;
+    font-family: "Open Sans",sans-serif;
+}
+.avatar-member{
+    width: 31%;
+    margin: auto;
+    position: absolute;
+    top: -14%;
+    left: 7%;
+    box-shadow: 0 0 15px 1px rgba(31,31,33,0.87);
+    transition: all 0.3s ease-in-out;
+}
+.avatar-member:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.link-content{
+    text-decoration: none !important;
+    transition: all 0.3s ease-in-out;
+    text-align: center;
+    width: 100%;
+    clear: both;
+    float: left;
+    color: rgba(35,35,38,0.87);
+
+}
+.link-content i{
+    font-size: 14px !important;
+}
+.link-content:hover{
+    color: #00caff;
+}
+.social-contain{
+    width: 30%;
+    margin: auto;
+    height: 50px;
+    position: relative;
+    top: 14%;
+}
+.social-icon-box{
+    text-align: center;
+}
+
+.social-icon-box i{
+    transition: all 0.3s ease-in-out;
+    display: inline-block;
+}
+.social-icon-box i:hover{
+    cursor: pointer;
+    transform: translateY(-15px)!important;
+    color: #00caff;
+}
+.social-icon-box i{
+    font-size: 27px;
+}
+
+
+
+                                                /*TEAMM */
+
+
+
+
+

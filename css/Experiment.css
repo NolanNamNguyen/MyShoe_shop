@@ -1,0 +1,120 @@
+
+.sidebar,
+.content {
+    transition: all 0.5s ease-out;
+}
+
+.sidebar {
+    width: 30%;
+    background: linear-gradient(to bottom right, Tomato, #565ef5);
+    position: absolute;
+    top: 0;
+    display: block;
+    height: 100vh;
+    right: -31%;
+    padding: 10px 0;
+    visibility: hidden;
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+}
+
+.menu {
+    list-style-type: none;
+    padding-left: 15px;
+    line-height: 37px;
+}
+
+.menu__link {
+    color: white;
+    font-weight: 100;
+    text-decoration: none;
+    transition: all .25s ease-out;
+}
+.menu__link:hover, .menu__link:focus, .menu__link:active {
+    color: Gold;
+}
+
+.menu-toggler {
+    display: block;
+    position: relative;
+    cursor: pointer;
+    z-index: 1;
+    float: left;
+    width: 5%;
+}
+
+.input-toggler {
+    position: absolute;
+    left: -200% !important;
+}
+
+.input-toggler:checked ~ .sidebar {
+    transform: translateX(-30%);
+    opacity: .98;
+    visibility: visible;
+}
+
+/*HAMBERGER ICON*/
+
+#nav-icon1{
+    width: 50px;
+    height: 45px;
+    position: relative;
+    transform: rotate(0deg);
+    transition: .5s ease-in-out;
+    cursor: pointer;
+}
+
+#nav-icon1 span{
+    display: block;
+    position: absolute;
+    height: 8px;
+    width: 100%;
+    background: grey;
+    border-radius: 9px;
+    line-height: 1px;
+    opacity: 1;
+    left: 0;
+    transform: rotate(0deg);
+    transition: .25s ease-in-out;
+}
+
+#nav-icon1 span:nth-child(1) {
+    top: 2px;
+}
+
+#nav-icon1 span:nth-child(2) {
+    top: 18px;
+}
+
+#nav-icon1 span:nth-child(3) {
+    top: 34px;
+}
+
+#nav-icon1.open span:nth-child(1) {
+    top: 10px;
+    transform: rotate(38deg);
+    width: 75%;
+    left: 17px;
+}
+
+#nav-icon1.open span:nth-child(2) {
+    opacity: 1;
+    transform: rotate(-180deg)
+}
+
+#nav-icon1.open span:nth-child(3) {
+    top: 30px;
+    transform: rotate(-38deg);
+    left: 17px;
+    width: 75%
+}
+
+/*HAMBERGER ICON*/
+
+.off-canvas-wrap{
+    height: 500px;
+    width: 100%;
+    background-color: #0da6e4;
+    display: block;
+}

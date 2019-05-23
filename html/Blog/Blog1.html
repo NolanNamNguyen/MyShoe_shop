@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Blog1</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="../../css/index-style.css">
+    <script src="../../JS/jquery.js"></script>
+    <script src="../../JS/jquery-3.2.1.min.js"></script>
+    <script
+            src="http://code.jquery.com/jquery-1.10.2.js"
+            integrity="sha256-it5nQKHTz+34HijZJQkpNBIHsjpV8b6QzMJs9tmOBSo="
+            crossorigin="anonymous">
+    </script>
+    <script src="../../JS/angular.js"></script>
+    <link rel="stylesheet" href="../../css/Blog2.css">
+    <link rel="stylesheet" href="../../css/Blogexpand.css">
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+    <script src="../../JS/socialicon.js"></script>
+    <link rel="stylesheet" href="../../css/Nav-hover.css">
+</head>
+<body ng-app="">
+<div ng-include="'../common/header.html'"></div>
+<div class="container main">
+    <p><a href="#">Home</a> / Blog</p><br>
+    <div class="col-sm-4 left_column">
+        <div class="search_box">
+            <form>
+                <div class="input-group s-input">
+                    <input type="text" class="form-control s2-box" placeholder="Search">
+                    <div class="input-group-btn">
+                        <button class="btn btn-default s2-btn" type="submit">
+                            <a class="glyphicon glyphicon-search"></a>
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="container-fluid recentart_list">
+            <h3>recent articles</h3>
+            <ul id="list" class="artlist">
+                <li>
+                    <div class="art1 container-fluid">
+                        <div class="col-sm-5 img1">
+                            <img src="http://cdn.shopify.com/s/files/1/1774/5405/articles/blog1-min_1024x1024.jpg?v=1487839818" alt="See you in sneakers!">
+                        </div>
+                        <div class="col-sm-7 info1">
+                            <p><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>13 February 2017 </p>
+                            <a href="#">See you in sneakers!</a><br><br>
+                            <span class="glyphicon glyphicon-comment"> </span> 0
+                        </div>
+                    </div>
+                </li>
+                <hr>
+                <li>
+                    <div class="art2 container-fluid">
+                        <div class="col-sm-5 img2">
+                            <img src="http://cdn.shopify.com/s/files/1/1774/5405/articles/blog2-min_1024x1024.jpg?v=1487839767" alt="We never stop, achieving this goal.">
+                        </div>
+                        <div class="col-sm-7 info2">
+                            <p><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>13 February 2017 </p>
+                            <a href="#">We never stop, achieving this goal.</a><br><br>
+                            <span class="glyphicon glyphicon-comment"> </span> 0
+                        </div>
+                    </div>
+                </li>
+                <hr>
+                <li>
+                    <div class="art3 container-fluid">
+                        <div class="col-sm-5 img3">
+                            <img src="http://cdn.shopify.com/s/files/1/1774/5405/articles/blog3-min_1024x1024.jpg?v=1487839792" alt="We’d love to hear your feedback on our product.">
+                        </div>
+                        <div class="col-sm-7 info3">
+                            <p><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>13 February 2017 </p>
+                            <a href="#">We’d love to hear your feedback on...</a><br><br>
+                            <span class="glyphicon glyphicon-comment"> </span> 0
+                        </div>
+                    </div>
+                </li>
+            </ul>
+            <div class="tab_box container-fluid">
+                <h3>tags</h3>
+                <div class="tagss container-fluid">
+                        <a href="#"><span class="glyphicon glyphicon-tag"> </span> Boots</a>
+                        <a href="#"><span class="glyphicon glyphicon-tag"> </span> Hi Tops</a>
+                        <a href="#"><span class="glyphicon glyphicon-tag"> </span> Lace Ups</a><br>
+                        <a href="#"><span class="glyphicon glyphicon-tag"> </span> Mid Tops</a>
+                        <a href="#"><span class="glyphicon glyphicon-tag"> </span> Slip Ons</a>
+                </div>
+            </div>
+            <div class="container-fluid comment_box">
+                <h3>Comments</h3>
+                <a href="#">
+                    <div>
+                        I love your store! There is the largest selection of products of the exceptional quality and the lowest prices like...
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-8 right_column">
+        <h3>blog</h3>
+        <div class="container-fluid content1">
+            <p class="article-title1">See you in sneakers!</p>
+            <p><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>13 Feb 2017 | David Braun | 0 Comments</p>
+            <div class="Bexpand">
+                <img src="http://cdn.shopify.com/s/files/1/1774/5405/articles/blog1-min_1024x1024.jpg?v=1487839818" alt="See you in sneakers!">
+            </div>
+            <p>Many of our customers visit our store from the age of… several months. See you in sneakers! Always.<br><br>
+
+                1. Lace Ups<br>
+                2. Slip Ons<br>
+                3. Mid Tops<br>
+                4. Hi Tops<br>
+                5. Boots<br><br>
+                Regardless, of where you are, your keds or sneakers will make your comfortable. Always. Many of our customers visit our our from the age of… several months. We are proud of having opened a kids shoes section which offers keds for kids and snickers for the smallest visitors. For older children there is a huge selection of sneakers which they will love. <br><br>
+
+                Our main principle is to amaze you with high quality and a large selection. Either you have a quick pace of your life or a slow relaxed rhythm, there is nothing better that stepping in your favorite sneakers and heading off to… to wherever.Our main principle is to amaze you with high quality and a large selection.</p>
+            <div class="tagss">
+                <a href="#"><span class="glyphicon glyphicon-tag"> </span> Boots</a>
+                <a href="#"><span class="glyphicon glyphicon-tag"> </span> Hi Tops</a>
+                <a href="#"><span class="glyphicon glyphicon-tag"> </span> Mid Tops</a>
+            </div><br>
+            <div class="me container-fluid"></div>
+            <div class="social">
+                <i id="twitter" class="icon-twitter"></i>
+                <i id="github" class="icon-pinterest"></i>
+                <i id="stack" class="icon-google-plus-sign"></i>
+                <i id="linkedin" class="icon-facebook-sign"></i>
+            </div>
+            <div class="row">
+                <div class="btn_toolbar btn_expand col-sm-6 btn-left">
+                    <a href="#">
+                        PREVIOUS POST
+                    </a>
+                </div>
+                <div class="btn_toolbar btn_expand col-sm-6 btn-right">
+                    <a href="#">
+                        NEXT POST
+                    </a>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="container-fluid content2">
+            <h3>COMMENTS</h3><br>
+            <div class="commentblog container-fluid">
+                <span style="text-align: left;padding-top: 13px" class="col-sm-6"><b>James Blake</b></span><p style="text-align: right" class="col-sm-6"><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>February 17, 201704:37 AM</p><br>
+                <p>
+                    I love your store! There is the largest selection of products of the exceptional quality and the lowest prices like in no other store. My family appreciated my purchase, I have no words to describe how pleased I am…Thanks a lot to your store, to your team and the delivery in time!!! Go on your great business, stay the best!
+                </p>
+            </div>
+        </div>
+        <hr>
+        <div class="comment-form">
+            <form>
+                <h3>leave a comment</h3>
+                <div class="row">
+                    <div class="col-lg-6 m-form">
+                        <label>Name</label><br>
+                        <input type="text" class="hint form-control">
+                    </div>
+                    <div class="col-lg-6 m-form">
+                        <label>Email</label><br>
+                        <input type="text" class="hint form-control">
+                    </div>
+                </div>
+                <div class="row message-box">
+                    <label>Message</label><br>
+                    <textarea class="form-control hint" style="padding: 6px 6px;height: 101px"></textarea>
+                </div>
+                <div class="btn_toolbar btn_expand post-btn">
+                    <a href="#">POST COMMENT</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<!--Remaning section-->
+<div ng-include="'../common/footer.html'"></div>
+
+
+<script src="../../JS/bootstrap.min.js"></script>
+<script src="../../JS/bootstrap.js"></script>
+</body>
+</html>
