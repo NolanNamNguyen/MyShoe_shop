@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf0b50d7-8a01-4ec1-9b63-aa2c53bd4baf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/in-style(temp).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/Collections/Aerobics.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/home/temp.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/home/Index.html.txt" afterPath="" />
-    </list>
+    <list default="true" id="bf0b50d7-8a01-4ec1-9b63-aa2c53bd4baf" name="Default" comment="" />
     <ignored path="Team2-project.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -31,8 +26,8 @@
       <file leaf-file-name="Index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/home/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="59" column="54" lean-forward="true" selection-start-line="59" selection-start-column="54" selection-end-line="59" selection-end-column="54" />
+            <state relative-caret-position="1298">
+              <caret line="59" column="54" lean-forward="false" selection-start-line="59" selection-start-column="54" selection-end-line="59" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -41,8 +36,8 @@
       <file leaf-file-name="About-Us.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/About-Us/About-Us.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-308">
-              <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+            <state relative-caret-position="242">
+              <caret line="20" column="54" lean-forward="true" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -208,7 +203,7 @@
         <option value="D:/IT Project/1st Project Softech/Team2-project/JS/carouselex.js" />
         <option value="D:/IT Project/1st Project Softech/Team2-project/html/Blog/abcde.js" />
         <option value="D:/IT Project/1st Project Softech/Team2-project/html/home/carouselsssex.html" />
-        <option value="$PROJECT_DIR$/../../../1st-Project-Softech/Team2-project/html/home/carouselsssex.html" />
+        <option value="D:/1st-Project-Softech/Team2-project/html/home/carouselsssex.html" />
         <option value="$PROJECT_DIR$/JS/Aerobics.js" />
         <option value="$PROJECT_DIR$/css/ribbon.css" />
         <option value="$PROJECT_DIR$/JS/Aerobics.json" />
@@ -290,25 +285,25 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Team2-project" />
+              <option name="myItemId" value="MyShoe_shop" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Team2-project" />
+              <option name="myItemId" value="MyShoe_shop" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NolanNamNguyen.github.io" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -347,7 +342,7 @@
     <configuration default="false" name="carouselsssex.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Team2-project/Team2-project/html/home/carouselsssex.html">
       <method />
     </configuration>
-    <configuration default="false" name="abcde.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$PROJECT_DIR$/../../../Web-Creater-Software/Nodejs/node" path-to-js-file="abcde.js" working-dir="D:/IT Project/1st Project Softech/Team2-project/html/Blog">
+    <configuration default="false" name="abcde.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="D:/Web-Creater-Software/Nodejs/node" path-to-js-file="abcde.js" working-dir="D:/IT Project/1st Project Softech/Team2-project/html/Blog">
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
           <list />
@@ -371,7 +366,7 @@
       </EXTENSION>
       <method />
     </configuration>
-    <configuration default="false" name="jquery.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$PROJECT_DIR$/../../../Web-Creater-Software/Nodejs/node" path-to-js-file="jquery.js" working-dir="$PROJECT_DIR$/../../../1st-Project-Softech/Team2-project/JS">
+    <configuration default="false" name="jquery.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="D:/Web-Creater-Software/Nodejs/node" path-to-js-file="jquery.js" working-dir="D:/1st-Project-Softech/Team2-project/JS">
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
           <list />
@@ -395,7 +390,7 @@
       </EXTENSION>
       <method />
     </configuration>
-    <configuration default="false" name="abcde.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$PROJECT_DIR$/../../../Web-Creater-Software/Nodejs/node" path-to-js-file="abcde.js" working-dir="$PROJECT_DIR$/../../../1st-Project-Softech/Team2-project/html/Blog">
+    <configuration default="false" name="abcde.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="D:/Web-Creater-Software/Nodejs/node" path-to-js-file="abcde.js" working-dir="D:/1st-Project-Softech/Team2-project/html/Blog">
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
           <list />
@@ -419,7 +414,7 @@
       </EXTENSION>
       <method />
     </configuration>
-    <configuration default="false" name="hover.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$PROJECT_DIR$/../../../Web-Creater-Software/Nodejs/node" path-to-js-file="hover.js" working-dir="$PROJECT_DIR$/../../../1st-Project-Softech/Team2-project/JS">
+    <configuration default="false" name="hover.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="D:/Web-Creater-Software/Nodejs/node" path-to-js-file="hover.js" working-dir="D:/1st-Project-Softech/Team2-project/JS">
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
           <list />
@@ -723,11 +718,12 @@
       <workItem from="1557586606957" duration="61000" />
       <workItem from="1557739266673" duration="69000" />
       <workItem from="1558597406648" duration="1246000" />
+      <workItem from="1558604438157" duration="47000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="377615000" />
+    <option name="totallyTimeSpent" value="377662000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="0" />
@@ -769,7 +765,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../../1st-Project-Softech/Team2-project/html/home/carouselsssex.html" />
+    <entry file="file://D:/1st-Project-Softech/Team2-project/html/home/carouselsssex.html" />
     <entry file="file://$PROJECT_DIR$/css/product-carousel.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
@@ -838,7 +834,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JS/test.js" />
     <entry file="file://$PROJECT_DIR$/css/sub.scss" />
-    <entry file="file://$PROJECT_DIR$/../../../Batch 135/Files/Test/html/home/Index.html" />
+    <entry file="file://D:/Batch 135/Files/Test/html/home/Index.html" />
     <entry file="file://$PROJECT_DIR$/html/Contact Us-demo/Contact-Us.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -927,13 +923,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Meo Project/jukl;.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Meo Project/jukl;.html" />
     <entry file="file://$PROJECT_DIR$/css/fade-in.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -941,13 +931,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Meo Project/ProductDecription.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3124">
-          <caret line="142" column="22" lean-forward="false" selection-start-line="142" selection-start-column="22" selection-end-line="142" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Meo Project/ProductDecription.html" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/svg11/svg-shape.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
@@ -980,7 +964,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1059,16 +1042,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/home/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="59" column="54" lean-forward="true" selection-start-line="59" selection-start-column="54" selection-end-line="59" selection-end-column="54" />
+        <state relative-caret-position="1298">
+          <caret line="59" column="54" lean-forward="false" selection-start-line="59" selection-start-column="54" selection-end-line="59" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/About-Us/About-Us.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-308">
-          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        <state relative-caret-position="242">
+          <caret line="20" column="54" lean-forward="true" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
           <folding />
         </state>
       </provider>
